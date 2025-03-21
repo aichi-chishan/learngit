@@ -4,4 +4,4 @@ Git has mutable index called stage.
 Git tracks changes of files.
 Today is Thursday.
 Creating a new branch is quick.
-Now I am in the dev branch.
+
